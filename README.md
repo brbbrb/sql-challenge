@@ -20,5 +20,8 @@ The goal was to analyze employee data for a fictional company using 6 existing C
     * List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
     * In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-All files (less the README) can be found in the EmployeeSQL directory:
-* **data** directory contains original
+All files (less the README) can be found in the **EmployeeSQL** directory:
+* **data** directory contains 6 original CSV data tables
+* **Employee_ERD** visualizes the relationship between the tables in the database
+* **employee_schema** is the logical collection of database objects used in SQL queries
+* **employee_queries** is the list of SQL queries performed on the dataset
